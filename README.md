@@ -1,5 +1,4 @@
 # Cardboard-Cosmology-JLA
-App to visualise the JLA supernova catalogue
 
 Please email any questions to rjknapman@gmail.com.
 
